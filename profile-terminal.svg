@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+<title id="title">Kaik Souza — Backend, Java e AWS</title>
+<desc id="desc">Um terminal colorido apresenta Kaik Souza: do suporte ao backend, com curiosidade para entender, construir e melhorar.</desc>
+<style>
+ text{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace}
+ .intro{animation:enter .7s ease-out}.line{animation:enter 1.2s ease-out}.cursor{animation:blink 1s step-end 4}
+ @keyframes enter{from{opacity:.15;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+ @keyframes blink{50%{opacity:0}}
+ @media(prefers-reduced-motion:reduce){.intro,.line,.cursor{animation:none}}
+</style>
+<rect x="1" y="1" width="958" height="358" rx="18" fill="#101a29" stroke="#34445b" stroke-width="2"/>
+<path d="M19 1H941Q959 1 959 19V53H1V19Q1 1 19 1" fill="#1d2b3e"/>
+<circle cx="28" cy="27" r="6" fill="#ff857b"/><circle cx="50" cy="27" r="6" fill="#f9cf69"/><circle cx="72" cy="27" r="6" fill="#71dfbb"/>
+<text x="480" y="32" fill="#c0cedf" font-size="13" text-anchor="middle">kaik@dev ~/sobre-mim</text>
+<g class="intro">
+<text x="38" y="94" fill="#71dfbb" font-size="16">❯ java Kaik.java</text>
+<text x="36" y="156" fill="#f4f7fb" font-size="52" font-weight="700" letter-spacing="-2">Oi, eu sou o Kaik<tspan fill="#ffad86">.</tspan></text>
+<text x="39" y="194" fill="#f9cf69" font-size="20">Backend na cabeça. Curiosidade no código.</text>
+</g>
+<g class="line">
+<text x="39" y="243" fill="#b9c9df" font-size="16">Do suporte ao backend: entender, construir, melhorar.</text>
+<rect x="38" y="276" width="87" height="33" rx="7" fill="#303146"/><text x="81" y="298" text-anchor="middle" font-size="14" fill="#ffad86">JAVA</text>
+<rect x="135" y="276" width="151" height="33" rx="7" fill="#1e3a36"/><text x="210" y="298" text-anchor="middle" font-size="14" fill="#8ce4bb">SPRING BOOT</text>
+<rect x="296" y="276" width="164" height="33" rx="7" fill="#343325"/><text x="378" y="298" text-anchor="middle" font-size="14" fill="#f9cf69">AWS SECURITY</text>
+<text x="694" y="294" fill="#71dfbb" font-size="17">próximo commit</text><rect class="cursor" x="850" y="279" width="10" height="19" fill="#71dfbb"/>
+</g>
+</svg>
