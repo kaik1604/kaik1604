@@ -10,37 +10,36 @@
 
 ## 👋 Por trás do teclado
 
-Sou **Kaik Souza**, desenvolvedor com foco em **backend Java e Spring Boot**. Comecei no suporte de TI, passei pelo desenvolvimento full stack e fui me interessando cada vez mais pelo que acontece por trás da interface.
+Sou **Kaik Souza**, desenvolvedor com foco em **backend Java e Spring Boot**, em busca de oportunidades **Júnior**. Sou formado em **Análise e Desenvolvimento de Sistemas** pela Anhanguera (junho de 2026).
 
-Gosto de entender o caminho inteiro: o problema de quem usa, a lógica da aplicação e a infraestrutura que mantém tudo de pé. Aqui compartilho meus projetos de estudo, escolhas de implementação e o que vou aprendendo pelo caminho.
-
-```java
-var kaik = new Desenvolvedor(
-    "Java + Spring Boot",
-    "Segurança em nuvem",
-    "Curiosidade para entender o porquê"
-);
-// Um problema por vez. Um aprendizado por commit.
-```
+Comecei no suporte de TI e hoje atuo como Desenvolvedor Full Stack na Alest Consultoria, com APIs, integrações e manutenção de sistemas. Aqui compartilho meus projetos de estudo e o que vou aprendendo pelo caminho.
 
 ## 🧰 O que tem na minha bancada
 
 | Foco | Tecnologias e conhecimentos |
 | :--- | :--- |
-| **☕ Backend** | Java · Spring Boot · APIs REST · JPA / Hibernate |
-| **🗃️ Dados e testes** | SQL · MySQL · JUnit · Maven |
+| **☕ Backend Java** | Java · Spring Boot · APIs REST · Spring Data JPA · Bean Validation |
+| **🗃️ Dados e testes** | SQL · H2 · JUnit 5 · MockMvc · Maven |
 | **☁️ Cloud e segurança** | AWS · IAM · KMS · CloudTrail · AWS Config |
-| **🔧 Ferramentas** | Git · Linux · Docker · Python · Node.js |
+| **🔧 Experiência profissional** | Git · Liquibase · C#/.NET · Python · Node.js |
 
-Minha base de trabalho e estudo. Nos projetos abaixo, você encontra o contexto de aplicação.
+As tecnologias de cada entrega estão descritas no projeto e na minha experiência profissional no LinkedIn.
 
 ## 🚀 Do código para a prática
 
-### 🩺 [AppEmergenciaMedica](https://github.com/kaik1604/AppEmergenciaMedica)
+### 🩺 [Ficha de Emergência - API REST](https://github.com/kaik1604/AppEmergenciaMedica)
 
-**Java · Orientação a objetos · Console**
+**Java 21 · Spring Boot · Spring Data JPA · H2 · JUnit 5 · MockMvc**
 
-Projeto de estudo que reúne os dados de uma pessoa e seus contatos de emergência em uma ficha de texto. Um exercício para praticar organização de classes, entrada pelo terminal e geração de arquivos.
+Evoluí minha aplicação de terminal para uma API REST de fichas de emergência.
+
+- Cadastro, consulta, atualização, exclusão, paginação e exportação em texto.
+- Validação com Bean Validation e respostas de erro no formato Problem Details.
+- Separação em controller, service e repository, com DTOs para entrada e saída.
+- Persistência em H2 e testes de integração com JUnit 5 e MockMvc.
+- README com instruções de execução, exemplos de requisições e testes.
+
+Projeto de estudo com dados fictícios. A versão original de terminal está preservada em `legacy/`. PostgreSQL, autenticação e implantação em nuvem são próximos passos, ainda não implementados.
 
 [**Explorar o código →**](https://github.com/kaik1604/AppEmergenciaMedica)
 
@@ -48,13 +47,13 @@ Projeto de estudo que reúne os dados de uma pessoa e seus contatos de emergênc
 
 **Next.js · React · TypeScript**
 
-Minha trajetória, projetos e conhecimentos em um só lugar. Com português e inglês, tema claro e escuro e pequenos movimentos que respeitam a preferência por animações reduzidas.
+Minha trajetória, projetos e conhecimentos em um só lugar, com versões em português e inglês.
 
 [**Abrir o site →**](https://kaiksouza.vercel.app/)
 
 ## 🛡️ Segurança também faz parte
 
-**AWS Certified Security – Specialty**  
+**AWS Certified Security - Specialty**  
 Emitida em **26/03/2026** · Válida até **26/03/2029**
 
 Identidade e acesso, criptografia, monitoramento e governança na AWS.
@@ -62,24 +61,15 @@ Identidade e acesso, criptografia, monitoramento e governança na AWS.
 [**Validar minha certificação na AWS →**](https://cp.certmetrics.com/amazon/en/public/verify/credential/adba76269c46425ba46bc7394f82e5d9)
 
 <details>
-<summary><strong>🧭 Minha trajetória, em três passos</strong></summary>
-
-1. **Suporte de TI:** contato direto com quem usa os sistemas, investigação de problemas e infraestrutura.
-2. **Desenvolvimento full stack:** conexão entre interface, aplicação e experiência de uso.
-3. **Backend com Java:** meu foco de desenvolvimento, com segurança em nuvem no repertório.
-
-</details>
-
-<details>
 <summary><strong>🌎 A quick hello in English</strong></summary>
 
-I'm **Kaik Souza**, a developer focused on **Java, Spring Boot and cloud security**. My path started in IT support and moved through full-stack development toward backend engineering.
+I'm **Kaik Souza**, a developer focused on **Java and Spring Boot**, looking for **Junior Java Backend Developer** opportunities. I completed my degree in Systems Analysis and Development in June 2026 and hold the AWS Certified Security - Specialty certification.
 
-This profile brings together my learning projects, technical background and AWS Security – Specialty certification. Explore my [portfolio](https://kaiksouza.vercel.app/) for the full story in English or Portuguese.
+My featured project is a Java 21 REST API with Spring Boot, JPA, H2, input validation and integration tests. My professional background includes IT support and full-stack development, API integrations and system maintenance.
 
 </details>
 
 ---
 
-**Tem um projeto, uma ideia ou um bug curioso? Bora conversar.**  
+**Buscando um desenvolvedor Java Júnior? Vamos conversar.**  
 [kaiksousalima@gmail.com](mailto:kaiksousalima@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kaiksouza) · [Instagram](https://www.instagram.com/kaiksouzza/)
